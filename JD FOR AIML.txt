@@ -1,0 +1,80 @@
+AI/ML Engineer - Computer Vision & Healthcare Solutions
+About the Role
+We are seeking a talented AI/ML Engineer with a strong focus on computer vision and healthcare applications. The ideal candidate should be pursuing or recently completed their Computer Engineering degree with AI specialization, demonstrating hands-on experience in developing AI-powered solutions.
+Key Responsibilities
+
+Design and implement computer vision algorithms using OpenCV and TensorFlow for real-time applications
+Develop and maintain AI-powered healthcare solutions integrating NLP and computer vision technologies
+Create and optimize machine learning models for facial recognition and image processing systems
+Collaborate with cross-functional teams to integrate software solutions with hardware systems
+Implement and manage MLOps practices for efficient model deployment and maintenance
+Participate in technical documentation and knowledge sharing activities
+
+Required Technical Skills
+Programming
+
+Python
+
+Data Analysis
+
+Statistical Analysis
+
+Artificial Intelligence
+
+Machine Learning
+Deep Learning
+Computer Vision
+NLP
+Generative AI
+
+DevOps & Infrastructure
+
+MLOps
+Embedded Systems
+
+Hardware
+
+Raspberry Pi
+Arduino
+
+Required Experience
+
+Bachelor's degree in Computer Engineering with AI specialization (ongoing or completed)
+Demonstrated experience through projects in:
+
+Healthcare AI applications
+Facial recognition systems
+Image processing and search capabilities
+Real-time computer vision applications
+
+
+Experience with hardware integration and robotics
+Leadership experience in technical communities or teams
+
+Preferred Qualifications
+
+Certifications in Data Science
+Experience with generative AI technologies
+Knowledge of SMILES notation and chemical modeling
+Experience with geolocation-based systems
+
+Soft Skills
+
+Quick Learner
+Project Management
+Time Management
+Team Collaboration
+Technical Leadership
+Event Organization
+Problem-solving
+Communication
+
+What We Offer
+
+Opportunity to work on cutting-edge AI/ML projects in healthcare
+Hands-on experience with the latest technologies in computer vision and NLP
+Collaborative environment with cross-functional teams
+Professional development and learning opportunities
+Chance to contribute to innovative data-driven solutions
+
+This position is perfect for a dedicated computer engineering professional with a passion for AI/ML technologies and a proven track record of implementing innovative solutions in computer vision and healthcare applications.
