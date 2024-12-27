@@ -3,8 +3,8 @@ import os
 import pandas as pd
 from PyPDF2 import PdfReader
 from docx import Document
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer # type: ignore
+from sklearn.metrics.pairwise import cosine_similarity # type: ignore
 
 
 # Custom style for the app

@@ -94,7 +94,7 @@ def create_skills_extraction_chain():
     """
     llm = ChatGroq(
         groq_api_key="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",  
-        model_name="gemma-7b-it",
+        model_name="gemma2-9b-it",
         temperature=0.5,
     )
     
